@@ -1,11 +1,12 @@
-# hello-world
-My first GitHub repository .Contains "Hello World" programs in C, C++ and python for practice purpose. 
-DSA implementations in C and C++, including arrays, linked lists, stacks, queues, trees, and sorting algorithms.
+ # Hello World
+
+This is my first GitHub repository containing "Hello World" programs and basic Data Structure & Algorithm implementations in C and C++ for practice purposes.
+
 ## Topics Covered
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- Searching & Sorting
+- Arrays  
+- Linked Lists  
+- Stacks  
+- Queues  
+- Trees  
+- Graphs  
+- Searching & Sorting Algorithms
